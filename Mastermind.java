@@ -5,15 +5,13 @@ import java.util.Map;
 import java.util.Set;
 import java.util.Scanner;
 import java.lang.Math;
-// Program:	Mastermind (Week 12 Assignment 4)
+// Program:	Mastermind
 // Written by:	Gina Guerra
 // Program Description:	Runs a program to allow the user to play the mastermind game
 // File name:	Mastermind.java
 // File description: Runs a mastermind game and allows the user to continue playing upon winning/losing
 // Other files in this project: none
 // Challenges: Fully forgot hashmaps work differently in C languages vs java and made a bit of a mess trying to make a temporary hashmap...
-// Time Spent:	actually coding? ~5 hours
-// 			  	coding + thinking ~ 15 hours total
 //
 //               Revision History
 // Date:                   By:                  Action:
